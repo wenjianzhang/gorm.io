@@ -17,6 +17,7 @@ layout: page
 ## Links
 
 * An admin system based on GORM V2 - [GIN-VUE-ADMIN](https://github.com/flipped-aurora/gin-vue-admin)
+* A middle and background system on GORM V2 - [GO-ADMIN](https://github.com/go-admin-team/go-admin)
 
 ## Videos
 
